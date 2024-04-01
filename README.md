@@ -8,3 +8,5 @@
 * Khoa Công Nghệ Thông Tin
 * Ngành học: Công nghệ thông tin
 * Chuyên ngành: Công nghệ phần mềm
+* Sở thích: Bóng rổ
+* Hoạt động: Hutech It Open Day
